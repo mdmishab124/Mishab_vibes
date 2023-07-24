@@ -56,14 +56,23 @@ hr {
 h3 span {
   letter-spacing: 0;
   color: rgb(53, 31, 2);
+  display: flex;
+  margin-left: 20px;
 }
 
 h3 span a {
   font-family: 'Indie Flower', sans-serif;
+  font-size: 20px;
   position: relative;
+  border: solid;
+  border-color: #d8061b;
+  border-radius: 40px;
+  border-width: 2px;
+  padding: 2px 55px 2px;
+
 }
 
-h3 span a::after {
+/* h3 span a::after {
   content: "";
   position: absolute;
   bottom: -5px;
@@ -73,7 +82,7 @@ h3 span a::after {
   border: solid 2px #d8061b;
   border-color: #e20017 transparent transparent transparent;
   border-radius: 30%;
-}
+} */
 
 .social {
   display: flex;
@@ -131,6 +140,12 @@ h3 span a::after {
 
   .social {
     flex-wrap: wrap;
+  }
+  h3 span{
+    margin-left: 0;
+  }
+  h3 span a{
+    padding: 2px 45px 2px;
   }
 
   h3 span a::after {
