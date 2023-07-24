@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Mishab_vibes/static/css/main.46f55fee.css",
+    "main.js": "/Mishab_vibes/static/js/main.39d94609.js",
+    "static/media/imu.png": "/Mishab_vibes/static/media/imu.5a9a80dd1f77d3b95f13.png",
+    "static/media/postman.png": "/Mishab_vibes/static/media/postman.e087d6030b1aa83511b8.png",
+    "static/media/figma.png": "/Mishab_vibes/static/media/figma.de9ddc6c2c43c542a17e.png",
+    "static/media/vscode.png": "/Mishab_vibes/static/media/vscode.9bc6e588b5f2b867a8a4.png",
+    "static/media/projects-09.jpg": "/Mishab_vibes/static/media/projects-09.535631acf11e0fad81e1.jpg",
+    "static/media/projects-08.jpg": "/Mishab_vibes/static/media/projects-08.273423098b739a50f76b.jpg",
+    "static/media/projects-01.jpg": "/Mishab_vibes/static/media/projects-01.675d9520bf48d75baf06.jpg",
+    "static/media/projects-05.jpg": "/Mishab_vibes/static/media/projects-05.ae1b3198fc1782276945.jpg",
+    "static/media/webpack.png": "/Mishab_vibes/static/media/webpack.09a1a1112c577c279435.png",
+    "static/media/projects-02.jpg": "/Mishab_vibes/static/media/projects-02.4165544a85c3ecd5cc68.jpg",
+    "static/media/projects-10.jpg": "/Mishab_vibes/static/media/projects-10.3a7e3427497c1d72507c.jpg",
+    "static/media/npm.png": "/Mishab_vibes/static/media/npm.0340e1c9e345c6c6648c.png",
+    "static/media/html.png": "/Mishab_vibes/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/projects-11.jpg": "/Mishab_vibes/static/media/projects-11.81e5ff9402f0d7ecb11e.jpg",
+    "static/media/Illustrator.png": "/Mishab_vibes/static/media/Illustrator.6591ecb57cbd8e547270.png",
+    "static/media/projects-04.jpg": "/Mishab_vibes/static/media/projects-04.90a3024e84b386e91689.jpg",
+    "static/media/projects-07.jpg": "/Mishab_vibes/static/media/projects-07.d2e26b58a94e9177fa37.jpg",
+    "static/media/skype.png": "/Mishab_vibes/static/media/skype.6d75d6c3f944b337082d.png",
+    "static/media/zoom.webp": "/Mishab_vibes/static/media/zoom.216e9d71bb558929175d.webp",
+    "static/media/meet.png": "/Mishab_vibes/static/media/meet.4c4496d98dcc42fe6b04.png",
+    "static/media/no-sql.png": "/Mishab_vibes/static/media/no-sql.0090a77e30cd431e1988.png",
+    "static/media/react.png": "/Mishab_vibes/static/media/react.428839d4924b447d4d50.png",
+    "static/media/bootstrap.png": "/Mishab_vibes/static/media/bootstrap.dc44a420bbc9f7668242.png",
+    "static/media/Node-Js.png": "/Mishab_vibes/static/media/Node-Js.ab88bcf9367af9a415c1.png",
+    "static/media/css.png": "/Mishab_vibes/static/media/css.bd165c2b95efc6e13f9b.png",
+    "static/media/jquery.png": "/Mishab_vibes/static/media/jquery.fe01f98055d4cf7679cf.png",
+    "static/media/cdt.png": "/Mishab_vibes/static/media/cdt.63ea0b08428a40724430.png",
+    "static/media/github.png": "/Mishab_vibes/static/media/github.a5e504bcf8709dc5c267.png",
+    "static/media/javascript.png": "/Mishab_vibes/static/media/javascript.9d36595219f4b8081d71.png",
+    "static/media/next.webp": "/Mishab_vibes/static/media/next.864ec59e9c450019ca8a.webp",
+    "index.html": "/Mishab_vibes/index.html",
+    "main.46f55fee.css.map": "/Mishab_vibes/static/css/main.46f55fee.css.map",
+    "main.39d94609.js.map": "/Mishab_vibes/static/js/main.39d94609.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46f55fee.css",
+    "static/js/main.39d94609.js"
+  ]
+}
