@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mishab_vibes/static/css/main.46f55fee.css",
-    "main.js": "/Mishab_vibes/static/js/main.39d94609.js",
+    "main.css": "/Mishab_vibes/static/css/main.b755cdc6.css",
+    "main.js": "/Mishab_vibes/static/js/main.eb15b5f3.js",
     "static/media/imu.png": "/Mishab_vibes/static/media/imu.5a9a80dd1f77d3b95f13.png",
     "static/media/postman.png": "/Mishab_vibes/static/media/postman.e087d6030b1aa83511b8.png",
     "static/media/figma.png": "/Mishab_vibes/static/media/figma.de9ddc6c2c43c542a17e.png",
@@ -33,11 +33,11 @@
     "static/media/javascript.png": "/Mishab_vibes/static/media/javascript.9d36595219f4b8081d71.png",
     "static/media/next.webp": "/Mishab_vibes/static/media/next.864ec59e9c450019ca8a.webp",
     "index.html": "/Mishab_vibes/index.html",
-    "main.46f55fee.css.map": "/Mishab_vibes/static/css/main.46f55fee.css.map",
-    "main.39d94609.js.map": "/Mishab_vibes/static/js/main.39d94609.js.map"
+    "main.b755cdc6.css.map": "/Mishab_vibes/static/css/main.b755cdc6.css.map",
+    "main.eb15b5f3.js.map": "/Mishab_vibes/static/js/main.eb15b5f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.46f55fee.css",
-    "static/js/main.39d94609.js"
+    "static/css/main.b755cdc6.css",
+    "static/js/main.eb15b5f3.js"
   ]
 }
