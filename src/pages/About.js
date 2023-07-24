@@ -28,7 +28,7 @@ const About = () => (
     <div className="about-me">
       <h2 className="title about-title">About Me</h2>
       <p className="paragraph about-para">
-        My journey in the world of programming began in 2020, when I ventured into freelancing. Since then, I have had the opportunity to work on a wide range of projects, honing my skills and expanding my knowledge along the way. I have worked with various clients, both independently and as part of a team, to deliver innovative and user-friendly websites and mobile applications.
+        My journey in the world of programming began in 2020, when I ventured into freelancing. Since then, I have had the opportunity to work on a wide range of projects, honing my skills and expanding my knowledge along the way. I have worked with various clients, both independently and as part of a team, to deliver innovative and user-friendly websites and Graphic Designs.
       </p>
       <button className="hire-me">
         <a href="https://www.kickresume.com/cv/WJQp7z/" target="_blank" rel="noreferrer">

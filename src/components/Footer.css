@@ -1,0 +1,24 @@
+
+footer{
+    width: 100%;
+    height: auto;
+    
+}
+.footer{
+    background-color: rgb(173, 170, 170);
+}
+.footer-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.footer-main p{
+    font-family: poppins;
+    font-size: 13px;
+}
+@media only screen and (max-width: 768px){
+    .footer-main p{
+        font-size: 10px;
+    }
+}

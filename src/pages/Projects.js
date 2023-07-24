@@ -16,7 +16,7 @@ const Projects = () => {
     <div className="projects" id="projects">
       <h1 className="title projects-title">Featured Projects</h1>
       <p className="projects-para">
-        Deployed 50+ scalable websites and crafting amazing graphic designs. Now seeking my next exhilarating project or role.
+        Deployed 20+ scalable websites and crafting amazing graphic designs. Now seeking my next exhilarating project or role.
       </p>
       <div className="projects-container">
         <div className="project-card">
@@ -35,9 +35,10 @@ const Projects = () => {
           <div className="card-description">
             <h3>Noor Tech</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi
-              veniam est temporibus Modi veniam est temporibus Modi veniam est
-              temporibus
+            A static website where users can immerse themselves in 
+            a captivating showcase of technology and creativity.
+            Explore an array of mesmerizing projects on this 
+            innovative webpage
             </p>
           </div>
         </div>
@@ -46,9 +47,10 @@ const Projects = () => {
           <div className="card-description">
             <h3>Techys Page</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi
-              veniam est temporibus Modi veniam est temporibus Modi veniam est
-              temporibus
+            Unlock your creativity with this interactive static 
+            website. Contact us to bring your beautiful designs to 
+            life through our expert team's craftsmanship and 
+            innovation.
             </p>
           </div>
         </div>
@@ -57,9 +59,9 @@ const Projects = () => {
           <div className="card-description">
             <h3>Ayurvedic Shop Site</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi
-              veniam est temporibus Modi veniam est temporibus Modi veniam est
-              temporibus
+            Users can discover the essence of Ayurveda at your 
+            doorstep. Shop authentic Ayurvedic products and explore 
+            a world of holistic wellness
             </p>
           </div>
         </div>
@@ -68,9 +70,10 @@ const Projects = () => {
           <div className="card-description">
             <h3>Malayalam Typography</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi
-              veniam est temporibus Modi veniam est temporibus Modi veniam est
-              temporibus
+            Embrace the art of typography in its purest form. This 
+            captivating image showcases the power of visual language, 
+            inviting you to experience the beauty of letters and 
+            design.
             </p>
           </div>
         </div>
@@ -79,9 +82,10 @@ const Projects = () => {
           <div className="card-description">
             <h3>Login Page</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi
-              veniam est temporibus Modi veniam est temporibus Modi veniam est
-              temporibus
+            Experience hassle-free access with my stunning login page.
+             Seamlessly designed for efficiency and style, this page 
+             sets the tone for a user-friendly journey into our 
+             website's captivating offerings.
             </p>
           </div>
         </div>
@@ -90,9 +94,10 @@ const Projects = () => {
           <div className="card-description">
             <h3>Sign In Page</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi
-              veniam est temporibus Modi veniam est temporibus Modi veniam est
-              temporibus
+            Welcome to a seamless sign-in experience with a touch of 
+            elegance. Dive into the intuitive design of this login 
+            page, where functionality meets aesthetics, making it a 
+            standout feature of my website.
             </p>
           </div>
         </div>
@@ -101,9 +106,11 @@ const Projects = () => {
           <div className="card-description">
             <h3>Computer Accessories Store Site</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi
-              veniam est temporibus Modi veniam est temporibus Modi veniam est
-              temporibus
+            Welcome to the ultimate hub for computer enthusiasts! 
+            Discover a wide range of top-quality accessories at 
+            unbeatable prices. Explore our carefully curated products 
+            and elevate your tech experience through this 
+            cutting-edge website
             </p>
           </div>
         </div>
@@ -112,9 +119,10 @@ const Projects = () => {
           <div className="card-description">
             <h3>Typography</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi
-              veniam est temporibus Modi veniam est temporibus Modi veniam est
-              temporibus
+            Behold the essence of creativity embodied in this 
+            typography masterpiece. A harmonious blend of fonts and 
+            design, this captivating project speaks volumes about the 
+            artistry behind every stroke.
             </p>
           </div>
         </div>
