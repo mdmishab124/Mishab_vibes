@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
 
 const words = [
-  ' websites',
-  ' webapps',
-  ' Typography',
-  ' ux/ui',
-  ' motion',
-  ' things',
+  ' UX/UI Designer',
+  ' Full-stack Developer',
+  ' Front-end Developer',
+  ' Back-end Developer',
+  ' Graphic Designer',
+  ' Problem-Solver',
 ];
 
 const WordFlick = () => {

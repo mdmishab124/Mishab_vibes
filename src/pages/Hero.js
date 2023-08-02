@@ -9,7 +9,7 @@ const Hero = () => (
     <div className="hero-overlay">
       <div className="description">
         <h2 className="title">Hi, my name is <span>Mishab</span></h2>
-        <h3 className="tagline">i design and develop<WordFlick/></h3>
+        <h3 className="tagline">i am a <WordFlick/></h3>
         <p className="paragraph">I'm passionate about crafting exceptional digital experiences. I bring ideas to life in the virtual realm with a keyboard as my paintbrush and lines of code as my canvas. Let's join forces and bring your digital dreams to fruition. Get in touch, and let's embark on this exciting journey together!</p>
         <div className="hero-btns">
           <button className="hire-me">
