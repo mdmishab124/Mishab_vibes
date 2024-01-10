@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mishab_vibes/static/css/main.1668509f.css",
+    "main.css": "/Mishab_vibes/static/css/main.5b7758c3.css",
     "main.js": "/Mishab_vibes/static/js/main.256cabfe.js",
     "static/media/imu.png": "/Mishab_vibes/static/media/imu.5a9a80dd1f77d3b95f13.png",
     "static/media/postman.png": "/Mishab_vibes/static/media/postman.e087d6030b1aa83511b8.png",
@@ -33,11 +33,11 @@
     "static/media/javascript.png": "/Mishab_vibes/static/media/javascript.9d36595219f4b8081d71.png",
     "static/media/next.webp": "/Mishab_vibes/static/media/next.864ec59e9c450019ca8a.webp",
     "index.html": "/Mishab_vibes/index.html",
-    "main.1668509f.css.map": "/Mishab_vibes/static/css/main.1668509f.css.map",
+    "main.5b7758c3.css.map": "/Mishab_vibes/static/css/main.5b7758c3.css.map",
     "main.256cabfe.js.map": "/Mishab_vibes/static/js/main.256cabfe.js.map"
   },
   "entrypoints": [
-    "static/css/main.1668509f.css",
+    "static/css/main.5b7758c3.css",
     "static/js/main.256cabfe.js"
   ]
 }
